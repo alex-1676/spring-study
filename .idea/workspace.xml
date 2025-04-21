@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f3b19d8-4688-42e5-888c-1fd90a0bf6ef" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/core">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="core" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="core" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2vXaXQ8xJl4i2rzB9jL5KgzGfg1" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.core [:hello.core.MemberApp.main()].executor": "Run",
+    "Gradle.core [:hello.core.member.MemberApp.main()].executor": "Run",
+    "Gradle.core 빌드.executor": "Run",
+    "JAR 애플리케이션.lombok-1.18.34.jar.executor": "Run",
+    "JUnit.ApplicationContectSameBeanFindTest.executor": "Run",
+    "JUnit.ApplicationContectSameBeanFindTest.findAllBeanType.executor": "Run",
+    "JUnit.ApplicationContextBasicFindTest.findBeanByNameX.executor": "Run",
+    "JUnit.ApplicationContextInfoTest.executor": "Run",
+    "JUnit.ApplicationContextInfoTest.findApplicationBean.executor": "Run",
+    "JUnit.MemberServiceTest.join.executor": "Run",
+    "JUnit.OrderServiceTest.createOrder.executor": "Run",
+    "JUnit.OrderServiceTest.executor": "Run",
+    "JUnit.RateDiscountPolicyTest.executor": "Run",
+    "JUnit.core.test의 hello.core.executor": "Run",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.CoreApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/박호영/Desktop/core/core",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.MemberApp.executor": "Run",
+    "애플리케이션.OrderApp.executor": "Run",
+    "애플리케이션.hello.core.MemberApp.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="hello.core.discount" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApplicationContectSameBeanFindTest.findAllBeanType">
+    <configuration name="ApplicationContectSameBeanFindTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContectSameBeanFindTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationContectSameBeanFindTest.findAllBeanType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContectSameBeanFindTest" />
+      <option name="METHOD_NAME" value="findAllBeanType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationContextBasicFindTest.findBeanByNameX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextBasicFindTest" />
+      <option name="METHOD_NAME" value="findBeanByNameX" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationContextInfoTest.findApplicationBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextInfoTest" />
+      <option name="METHOD_NAME" value="findApplicationBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="core.test의 hello.core" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.core" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="core.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.core.CoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ApplicationContectSameBeanFindTest" />
+      <item itemvalue="JUnit.ApplicationContectSameBeanFindTest.findAllBeanType" />
+      <item itemvalue="JUnit.ApplicationContextBasicFindTest.findBeanByNameX" />
+      <item itemvalue="JUnit.ApplicationContextInfoTest.findApplicationBean" />
+      <item itemvalue="JUnit.core.test의 hello.core" />
+      <item itemvalue="Spring Boot.CoreApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationContectSameBeanFindTest.findAllBeanType" />
+        <item itemvalue="JUnit.ApplicationContectSameBeanFindTest" />
+        <item itemvalue="JUnit.ApplicationContextBasicFindTest.findBeanByNameX" />
+        <item itemvalue="JUnit.ApplicationContextInfoTest.findApplicationBean" />
+        <item itemvalue="JUnit.core.test의 hello.core" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="2f3b19d8-4688-42e5-888c-1fd90a0bf6ef" name="변경" comment="" />
+      <created>1744293911668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744293911668</updated>
+      <workItem from="1744293912833" duration="7961000" />
+      <workItem from="1744638198329" duration="5067000" />
+      <workItem from="1744721785038" duration="8795000" />
+      <workItem from="1744763730168" duration="83000" />
+      <workItem from="1744797928983" duration="7000" />
+      <workItem from="1744985372667" duration="960000" />
+      <workItem from="1745031260599" duration="46609000" />
+      <workItem from="1745195048211" duration="80000" />
+      <workItem from="1745195139570" duration="631000" />
+      <workItem from="1745195784899" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
